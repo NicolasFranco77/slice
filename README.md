@@ -1,6 +1,6 @@
 # 🥄 SLICE
 
-![image](https://i.ibb.co/nP5RKdf/video.gif)
+![Navegacion](https://i.ibb.co/nP5RKdf/video.gif)
 
 ### [Live Site](https://nervous-hoover-e1b5f0.netlify.app/)
 
