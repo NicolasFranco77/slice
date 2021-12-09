@@ -1,6 +1,6 @@
 # 🥄 SLICE
 
-![Navegacion](https://i.ibb.co/nP5RKdf/video.gif)
+![Navegacion](https://i.ibb.co/sWMtXxQ/video.gif)
 
 ### [Live Site](https://nervous-hoover-e1b5f0.netlify.app/)
 
@@ -8,9 +8,11 @@
 
 👋Hola! Muchas gracias por darme la oportunidad de realizar la prueba técnica y por el tiempo que les lleve revisarlo.
 
-Me gustaría decirles que soy consciente de que es un código que se puede modularizar y refactorizar un montón (cosa que voy a seguir haciendo) pero es lo que pude hacer hasta ahora. Espero les guste.
+Me gustaría decirles que soy consciente de que es un código que se puede modularizar y refactorizar un montón (cosa que voy a seguir haciendo) pero es lo que pude hacer hasta ahora.
 
-Saludos!
+Espero les guste.
+
+¡Saludos!
 
 ## Criterios
 
